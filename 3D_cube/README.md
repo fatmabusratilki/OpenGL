@@ -16,5 +16,5 @@ In this project, a 3D interpolated cube drawing is implemented based on the spec
 
 ## Output:
 
-! [output:](output.png)
+![output:](output.png)
 
